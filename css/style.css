@@ -177,20 +177,20 @@
 	}
 	.about h1 {
 		font-weight:900;
-		color:#FFF;
+		color:#000;
 		line-height:34px;
 		margin-top:8px;
 	}
 	.about h3 {
 		margin-top:5px;
 		font-size:18px;
-		color:#FFF;
+		color:#000;
 		line-height:18px;
 	}
 	.about p {
 		font-size:14px;
 		margin-top:15px;
-		color:#bc9010;
+		color:#000;
 		line-height:20px;
 	}
 	/* Personal info */
@@ -209,7 +209,7 @@
 		overflow: hidden;
 	}
 	.personal-info li label {
-		color:#a87f09;
+		color:#000;
 		background-color:#f4c024;
 		float:left;
 		padding:4px 7px;
@@ -220,12 +220,13 @@
 	.personal-info li span {
 		float:right;
 		width:170px;
-		color:#a87f09;
+		color:#000;
 	}
 	.about span {
-		color:#a87f09;
+		color:#000;
 		background-color:#f4c024;
-		padding:4px 7px;
+		padding:4px 36px;
+		top: 10px;
 		border-radius: 3px;
 		-moz-border-radius: 3px;
 		-webkit-border-radius: 3px;
